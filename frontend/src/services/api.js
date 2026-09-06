@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://socialpost-l6ch.onrender.com",
 });
 
 // Automatically send JWT with protected requests

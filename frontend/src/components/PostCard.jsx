@@ -133,7 +133,7 @@ const PostCard = ({
         <div className="post-image-container">
 
            <img
-            src={`http://localhost:5000/api/posts/${post._id}/image`}
+            src={`https://socialpost-l6ch.onrender.com/api/posts/${post._id}/image`}
             alt="Post"
             className="post-image"
             />
