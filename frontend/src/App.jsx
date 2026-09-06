@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 
 import Login from "./pages/Login";
-import Signup from "./pages/Signup";
+import Signup from "./pages/SignUp";
 import Social from "./pages/Social";
 
 
